@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "motor-run",
+			"path": ".."
+		},
+		{
+			"name": "motor_test",
+			"path": "..\\..\\..\\labs\\motor_test"
+		},
+		{
+			"name": "sonar",
+			"path": "..\\..\\..\\components-test\\sonar"
+		},
+		{
+			"name": "IR_sensors",
+			"path": "..\\..\\..\\components-test\\IR_sensors"
+		}
+	],
+	"settings": {}
+}

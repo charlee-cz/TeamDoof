@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\labs\\tape_l2_cl"
+		},
+		{
+			"name": "tape sensor",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
